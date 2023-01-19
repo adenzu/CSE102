@@ -1,0 +1,13 @@
+*
+
+!.gitignore
+
+!**/
+
+!**/*.txt
+!**/*.c
+!**/*.pdf
+!**/*.docx
+!**/*.dat
+!**/*.h
+!**/makefile
